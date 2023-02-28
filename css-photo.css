@@ -3,16 +3,26 @@ body{background-color: gray;
 }
 
 
-.photo1 { display: block;
+.élagage{border: 5px outset #000;
+}
+
+
+.élagage1 {height: 500px;
+            width: 500px;
+
+}
+
+
+.élagage2 {height: 500px;
+           width: 500px;
+}
+
+
+.chemin-gravier{border: 5px outset red;
+                padding: 10px;
+}
+
+
+.chemin{height: 500px;
     width: 500px;
-    height: 150px;
-    }
-
-
-
-
-
-.exemple1 {height: 150px;
-            width: 150px;
-
 }

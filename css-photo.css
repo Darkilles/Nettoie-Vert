@@ -1,28 +1,44 @@
-body{background-color: gray;
+body{
+        background-color: gray;
+        padding: 10px;
+        margin: 10px;
+    }
+    
+p{
+    text-align: center;
+ }
 
+
+.élagage{
+            border: 5px outset #000;
+            padding: 10px;
+            margin: 10px;
+            font-size: 35px;
 }
 
 
-.élagage{border: 5px outset #000;
-}
-
-
-.élagage1 {height: 500px;
+.élagage1 {
+            height: 500px;
             width: 500px;
-
-}
-
-
-.élagage2 {height: 500px;
-           width: 500px;
-}
+          }
 
 
-.chemin-gravier{border: 5px outset red;
+
+
+
+
+.chemin-gravier{    
+                border: 5px outset black;
                 padding: 10px;
+                margin: 10px;
+                font-size: 35px;
+                }
+
+
+.chemin{
+        height: 500px;
+        width: 500px;
 }
 
 
-.chemin{height: 500px;
-    width: 500px;
-}
+
